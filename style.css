@@ -21,6 +21,7 @@ img{
 }
 .cabecalho{
     background-color: rgb(179, 34, 34);
+    display: flex;
 }
 .logocabecalho{
     width: 100px;
